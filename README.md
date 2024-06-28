@@ -5,7 +5,9 @@ intended to make Linux-based mobile devices useful for everyone. At that time
 iPaq, SimPad and other devices developers ported Linux to were the target 
 platforms for GPE. Initially the project was hosted at handhelds.org and using 
 Subversion for revision control. This platform is history as well as 
-linuxtogo.org which was used later.
+linuxtogo.org which was used later. 
+Currently this project has no website anymore but there is an IRC channel *#gpe*
+at Libera Chat. 
 
 GPE described itself like this on its project website:
 The GPE Palmtop Environment (GPE) is a collection of integrated software 
@@ -49,5 +51,6 @@ The used authors mapping file *authors.txt* is part of the Git tree.
 
 The main motivation is to keep the historic sources publicly available and 
 maybe even useful for someone.
+
 
 Florian Boor 2024/06/27
